@@ -1,3 +1,6 @@
+# Jonpierre Grajales
+# Project 1 Part 2
+
 import node as node
 
 class AVL:
