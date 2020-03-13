@@ -1,3 +1,6 @@
+# Jonpierre Grajales
+# Project 1 Part 2
+
 class node:
     def __init__(self, val):
         self.val = val
