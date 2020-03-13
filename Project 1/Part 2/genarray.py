@@ -1,3 +1,6 @@
+# Jonpierre Grajales
+# Project 1 Part 2
+
 import random
 
 def getRandomArray(n):
